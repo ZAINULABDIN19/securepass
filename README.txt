@@ -80,7 +80,7 @@ G7!rM2z#pL9q  | 🟢 Strong | Excellent entropy
 ────────────────────────────────────────────
 🧰 Technologies Used
 ────────────────────────────────────────────
-• Python 3.x
+• Python 3.11.9
 • CustomTkinter (modern GUI framework)
 • Regex (pattern matching)
 • Math (entropy calculation)
@@ -101,8 +101,8 @@ G7!rM2z#pL9q  | 🟢 Strong | Excellent entropy
 Zain Ul Abdin  
 💻 Cybersecurity Enthusiast | Ethical Hacker in Training | Python Developer  
 📍 Pakistan  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-link  
+GitHub: https://github.com/ZAINULABDIN19  
+LinkedIn: https://linkedin.com/in/zain-ul-abdin-88157b332  
 
 ────────────────────────────────────────────
 🛡️ License
